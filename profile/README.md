@@ -17,7 +17,7 @@
 
 ---
 
-Operating NATS in production means stitching together `nats` CLI flags, `jq` pipelines, Prometheus dashboards, and a folder of config files — then hoping nothing drifts between environments. Hyerix replaces that workflow with a single desktop application: one view of your streams, consumers, KV buckets, object stores, services, and cluster topology, paired with **Signal**, an AI layer that turns live telemetry into plain-English answers.
+Operating NATS in production means stitching together `nats` CLI flags, `jq` pipelines, Prometheus dashboards, and a folder of config files — then hoping nothing drifts between environments. Hyerix replaces that workflow with a single desktop application: one view of your streams, consumers, KV buckets, object stores, services, and cluster topology, paired with **Signal AI**, an AI layer that turns live telemetry into plain-English answers.
 
 Everything runs locally. Credentials, message payloads, and cluster state stay on your machine.
 
